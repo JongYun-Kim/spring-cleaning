@@ -26,7 +26,7 @@
 
 ### Living Room
 
-- [ ] Wipe the dining table
+- [x] Wipe the dining table
 - [ ] Tidy up books and other items neatly (categorise items, arrange by size so it looks natural, keep the arrangement clean and not cluttered — exceptions allowed if there’s an aesthetic reason). This applies to your personal belongings only.
 - [ ] Wipe the exposed floor/surface area where you tidied the books, etc.
 - [ ] Tidy your own shoes
